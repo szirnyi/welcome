@@ -1,3 +1,3 @@
 # welcome
 
-Mein Name ist Hase
+Mein Name ist **nicht** Hase.
